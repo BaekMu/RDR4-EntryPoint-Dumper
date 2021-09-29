@@ -7,7 +7,7 @@
 
 Made By AlwaysKaffa
 
-[https://github.com/zH4x/RDR2-Entrypoint-Dumper](Original)
+[Original Dumper](https://github.com/zH4x/RDR2-Entrypoint-Dumper)
 
 -----------------------------------------------------------------
 
