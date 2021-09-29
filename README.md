@@ -12,4 +12,5 @@ Made By AlwaysKaffa
 -----------------------------------------------------------------
 
 Added some built-in hashes for newer versions(_BG_SET_TEXT_SCALE, _BG_DISPLAY_TEXT...)
+
 If an error message is displayed even though the correct signature is used, change the location where the txt file is created.
