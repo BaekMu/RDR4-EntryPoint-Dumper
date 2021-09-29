@@ -6,9 +6,9 @@
 99% of code by Device9999
 
 Made By AlwaysKaffa
+[https://github.com/zH4x/RDR2-Entrypoint-Dumper](Original)
 
 -----------------------------------------------------------------
 
 Added some built-in hashes for newer versions(_BG_SET_TEXT_SCALE, _BG_DISPLAY_TEXT...)
-
 If an error message is displayed even though the correct signature is used, change the location where the txt file is created.
