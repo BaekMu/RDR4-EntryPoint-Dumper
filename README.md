@@ -6,6 +6,7 @@
 99% of code by Device9999
 
 Made By AlwaysKaffa
+
 [https://github.com/zH4x/RDR2-Entrypoint-Dumper](Original)
 
 -----------------------------------------------------------------
